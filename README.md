@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @letMeBorrowUrCode
-- 👀 I’m interested in code
-- 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on coding
+interested in AI and gamedev.
+i'm eager to learn.
 
 
 <!---
