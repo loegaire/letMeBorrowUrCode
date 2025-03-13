@@ -1,6 +1,4 @@
-interested in AI and gamedev.
-i'm eager to learn.
-
+unemployed
 
 <!---
 letMeBorrowUrCode/letMeBorrowUrCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
